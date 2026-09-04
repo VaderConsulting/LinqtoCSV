@@ -26,6 +26,10 @@ Third-party LINQtoCSV working copy. CsvContext.Read/Write maps CSV rows onto typ
 
 Open `LINQtoCSV.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008 to 2013, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2008
